@@ -2,14 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="153b7c28-ffe1-4444-a072-ae8d77488b41" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/xyzcorp/Flower.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/xyzcorp/FlowerColor.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/xyzcorp/FlowerTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_3_9_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/xyzcorp/Suit.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/xyzcorp/TimeBomb.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/xyzcorp/SuitTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/xyzcorp/TimeBombTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/xyzcorp/externalFlowers/ExternalFlowerTest.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/xyzcorp/OuterClass$Innerclass.class" afterPath="$PROJECT_DIR$/target/classes/com/xyzcorp/OuterClass$Innerclass.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/xyzcorp/OuterClass$StaticInnerClass.class" afterPath="$PROJECT_DIR$/target/classes/com/xyzcorp/OuterClass$StaticInnerClass.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/xyzcorp/OuterClass.class" afterPath="$PROJECT_DIR$/target/classes/com/xyzcorp/OuterClass.class" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/xyzcorp/OuterClassTest.class" afterPath="$PROJECT_DIR$/target/test-classes/com/xyzcorp/OuterClassTest.class" />
+      <change beforePath="$PROJECT_DIR$/java20180212.iml" afterPath="$PROJECT_DIR$/java20180212.iml" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xyzcorp/Flower.java" afterPath="$PROJECT_DIR$/src/main/java/com/xyzcorp/Flower.java" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/xyzcorp/FlowerTest.java" afterPath="$PROJECT_DIR$/src/test/java/com/xyzcorp/FlowerTest.java" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xyzcorp/Flower$FlowerBuilder.class" afterPath="$PROJECT_DIR$/target/classes/com/xyzcorp/Flower$FlowerBuilder.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xyzcorp/Flower.class" afterPath="$PROJECT_DIR$/target/classes/com/xyzcorp/Flower.class" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/xyzcorp/FlowerTest.class" afterPath="$PROJECT_DIR$/target/test-classes/com/xyzcorp/FlowerTest.class" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,11 +27,42 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="FlowerTest.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/xyzcorp/FlowerTest.java">
+      <file leaf-file-name="Suit.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/xyzcorp/Suit.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="18" lean-forward="true" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+            <state relative-caret-position="45">
+              <caret line="3" column="31" lean-forward="false" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
+              <folding>
+                <element signature="e#130#131#0" expanded="true" />
+                <element signature="e#157#158#0" expanded="true" />
+                <element signature="e#188#189#0" expanded="true" />
+                <element signature="e#232#233#0" expanded="true" />
+                <element signature="e#268#269#0" expanded="true" />
+                <element signature="e#302#303#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SuitTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/xyzcorp/SuitTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="33" lean-forward="false" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <marker date="1518467262813" expanded="true" signature="158:249" ph="{...}" />
+                <marker date="1518467262813" expanded="true" signature="293:459" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TimeBomb.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/xyzcorp/TimeBomb.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="46" lean-forward="true" selection-start-line="12" selection-start-column="46" selection-end-line="12" selection-end-column="46" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -33,29 +70,36 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Flower.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/xyzcorp/Flower.java">
+      <file leaf-file-name="FlowerTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/xyzcorp/FlowerTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="98">
-              <caret line="54" column="30" lean-forward="false" selection-start-line="54" selection-start-column="30" selection-end-line="54" selection-end-column="30" />
+            <state relative-caret-position="53">
+              <caret line="9" column="27" lean-forward="true" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
               <folding>
-                <element signature="e#768#769#0" expanded="true" />
-                <element signature="e#815#816#0" expanded="true" />
-                <element signature="e#855#856#0" expanded="true" />
-                <element signature="e#895#896#0" expanded="true" />
-                <element signature="e#942#943#0" expanded="true" />
-                <element signature="e#984#985#0" expanded="true" />
-                <element signature="e#1026#1027#0" expanded="true" />
-                <element signature="e#1071#1072#0" expanded="true" />
-                <element signature="e#1320#1321#0" expanded="true" />
-                <element signature="e#1357#1358#0" expanded="true" />
-                <element signature="e#1400#1401#0" expanded="true" />
-                <element signature="e#1439#1440#0" expanded="true" />
-                <element signature="e#1477#1478#0" expanded="true" />
-                <element signature="e#1519#1520#0" expanded="true" />
-                <element signature="e#1564#1565#0" expanded="true" />
-                <element signature="e#1606#1607#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TimeBombTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/xyzcorp/TimeBombTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="338">
+              <caret line="43" column="0" lean-forward="true" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="130">
+              <caret line="69" column="17" lean-forward="true" selection-start-line="69" selection-start-column="17" selection-end-line="69" selection-end-column="17" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -65,8 +109,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Enum" />
+        <option value="Class" />
+        <option value="JUnit4 Test Class" />
       </list>
     </option>
   </component>
@@ -97,7 +142,13 @@
         <option value="$PROJECT_DIR$/src/main/java/com/xyzcorp/FlowerBuilder.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/xyzcorp/FlowerColor.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/xyzcorp/Flower.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/xyzcorp/externalFlowers/ExternalFlowerTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xyzcorp/Suit.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/xyzcorp/SuitTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xyzcorp/TimeBomb.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/com/xyzcorp/FlowerTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/xyzcorp/TimeBombTest.java" />
       </list>
     </option>
   </component>
@@ -107,8 +158,15 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="124" />
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="47" />
     <option name="y" value="23" />
     <option name="width" value="1138" />
     <option name="height" value="870" />
@@ -159,14 +217,6 @@
               <item name="java20180212" type="b2602c69:ProjectViewProjectNode" />
               <item name="java20180212" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="xyzcorp" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java20180212" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java20180212" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -197,10 +247,17 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.xyzcorp" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.xyzcorp.awesome" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
     </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.xyzcorp" />
@@ -222,7 +279,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.FlowerTest">
+  <component name="RunManager" selected="JUnit.TimeBombTest.testAssertJExceptionHandling">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -243,31 +300,6 @@
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="" />
       <envs />
-    </configuration>
-    <configuration name="FlowerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.xyzcorp.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="java20180212" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.xyzcorp" />
-      <option name="MAIN_CLASS_NAME" value="com.xyzcorp.FlowerTest" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
     </configuration>
     <configuration name="FlowerTest.testFlowerBuilder" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
@@ -294,7 +326,7 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="FlowerTest.testFlowerBuilderNumberOfPetals" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SuitTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="com.xyzcorp.*" />
@@ -305,32 +337,7 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="com.xyzcorp" />
-      <option name="MAIN_CLASS_NAME" value="com.xyzcorp.FlowerTest" />
-      <option name="METHOD_NAME" value="testFlowerBuilderNumberOfPetals" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
-    <configuration name="OuterClassTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.xyzcorp.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="java20180212" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.xyzcorp" />
-      <option name="MAIN_CLASS_NAME" value="com.xyzcorp.OuterClassTest" />
+      <option name="MAIN_CLASS_NAME" value="com.xyzcorp.SuitTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -344,7 +351,7 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="OuterClassTest.testStaticInnerClass" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SuitTest.testListValues" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="com.xyzcorp.*" />
@@ -355,8 +362,58 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="com.xyzcorp" />
-      <option name="MAIN_CLASS_NAME" value="com.xyzcorp.OuterClassTest" />
-      <option name="METHOD_NAME" value="testStaticInnerClass" />
+      <option name="MAIN_CLASS_NAME" value="com.xyzcorp.SuitTest" />
+      <option name="METHOD_NAME" value="testListValues" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="TimeBombTest.testAssertJExceptionHandling" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.xyzcorp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="java20180212" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.xyzcorp" />
+      <option name="MAIN_CLASS_NAME" value="com.xyzcorp.TimeBombTest" />
+      <option name="METHOD_NAME" value="testAssertJExceptionHandling" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="TimeBombTest.testMulticatchMalformedURLAndIOException" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.xyzcorp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="java20180212" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.xyzcorp" />
+      <option name="MAIN_CLASS_NAME" value="com.xyzcorp.TimeBombTest" />
+      <option name="METHOD_NAME" value="testMulticatchMalformedURLAndIOException" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -492,19 +549,19 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.OuterClassTest" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.OuterClassTest.testStaticInnerClass" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.FlowerTest.testFlowerBuilder" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.FlowerTest" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.FlowerTest.testFlowerBuilderNumberOfPetals" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.SuitTest" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.SuitTest.testListValues" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.TimeBombTest.testMulticatchMalformedURLAndIOException" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.TimeBombTest.testAssertJExceptionHandling" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.FlowerTest.testFlowerBuilder" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.FlowerTest" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.TimeBombTest.testAssertJExceptionHandling" />
         <item index="1" class="java.lang.String" itemvalue="JUnit.FlowerTest.testFlowerBuilder" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.FlowerTest.testFlowerBuilderNumberOfPetals" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.OuterClassTest.testStaticInnerClass" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.OuterClassTest" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.TimeBombTest.testMulticatchMalformedURLAndIOException" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.SuitTest.testListValues" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.SuitTest" />
       </list>
     </recent_temporary>
   </component>
@@ -518,47 +575,47 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1518450110073</updated>
-      <workItem from="1518450111363" duration="8855000" />
+      <workItem from="1518450111363" duration="16440000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="FlowerTest - 2018.02.12 at 14h 07m 44s.xml">
-      <configuration name="FlowerTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="FlowerTest - 2018.02.12 at 14h 28m 18s.xml">
-      <configuration name="FlowerTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="FlowerTest - 2018.02.12 at 14h 30m 09s.xml">
-      <configuration name="FlowerTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="FlowerTest_testFlowerBuilder - 2018.02.12 at 13h 49m 10s.xml">
+    <history-entry file="FlowerTest_testFlowerBuilder - 2018.02.12 at 16h 47m 27s.xml">
       <configuration name="FlowerTest.testFlowerBuilder" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FlowerTest_testFlowerBuilder - 2018.02.12 at 13h 57m 36s.xml">
-      <configuration name="FlowerTest.testFlowerBuilder" configurationId="JUnit" />
+    <history-entry file="SuitTest - 2018.02.12 at 15h 20m 09s.xml">
+      <configuration name="SuitTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FlowerTest_testFlowerBuilder - 2018.02.12 at 14h 07m 17s.xml">
-      <configuration name="FlowerTest.testFlowerBuilder" configurationId="JUnit" />
+    <history-entry file="SuitTest_testListValues - 2018.02.12 at 15h 22m 31s.xml">
+      <configuration name="SuitTest.testListValues" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FlowerTest_testFlowerBuilder - 2018.02.12 at 14h 15m 24s.xml">
-      <configuration name="FlowerTest.testFlowerBuilder" configurationId="JUnit" />
+    <history-entry file="SuitTest_testListValues - 2018.02.12 at 15h 24m 59s.xml">
+      <configuration name="SuitTest.testListValues" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FlowerTest_testFlowerBuilder - 2018.02.12 at 14h 30m 05s.xml">
-      <configuration name="FlowerTest.testFlowerBuilder" configurationId="JUnit" />
+    <history-entry file="SuitTest_testListValues - 2018.02.12 at 15h 26m 33s.xml">
+      <configuration name="SuitTest.testListValues" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FlowerTest_testFlowerBuilderNumberOfPetals - 2018.02.12 at 14h 27m 19s.xml">
-      <configuration name="FlowerTest.testFlowerBuilderNumberOfPetals" configurationId="JUnit" />
+    <history-entry file="SuitTest_testListValues - 2018.02.12 at 15h 26m 40s.xml">
+      <configuration name="SuitTest.testListValues" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FlowerTest_testFlowerBuilderNumberOfPetals - 2018.02.12 at 14h 28m 41s.xml">
-      <configuration name="FlowerTest.testFlowerBuilderNumberOfPetals" configurationId="JUnit" />
+    <history-entry file="TimeBombTest_testAssertJExceptionHandling - 2018.02.12 at 16h 42m 32s.xml">
+      <configuration name="TimeBombTest.testAssertJExceptionHandling" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TimeBombTest_testAssertJExceptionHandling - 2018.02.12 at 16h 47m 36s.xml">
+      <configuration name="TimeBombTest.testAssertJExceptionHandling" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TimeBombTest_testAssertJExceptionHandling - 2018.02.12 at 16h 57m 23s.xml">
+      <configuration name="TimeBombTest.testAssertJExceptionHandling" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TimeBombTest_testMulticatchMalformedURLAndIOException - 2018.02.12 at 16h 28m 22s.xml">
+      <configuration name="TimeBombTest.testMulticatchMalformedURLAndIOException" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8855000" />
+    <option name="totallyTimeSpent" value="16440000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="124" y="23" width="1138" height="870" extended-state="0" />
+    <frame x="46" y="23" width="1393" height="870" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -570,11 +627,11 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20281273" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -694,8 +751,8 @@
         <state relative-caret-position="360">
           <caret line="24" column="5" lean-forward="false" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
           <folding>
-            <element signature="e#190#191#0" expanded="true" />
-            <element signature="e#226#227#0" expanded="true" />
+            <element signature="e#190#191#0" expanded="false" />
+            <element signature="e#226#227#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -705,9 +762,9 @@
         <state relative-caret-position="255">
           <caret line="17" column="9" lean-forward="true" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#158#159#0" expanded="true" />
-            <element signature="e#196#197#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#158#159#0" expanded="false" />
+            <element signature="e#196#197#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -728,35 +785,108 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/xyzcorp/externalFlowers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="28" lean-forward="false" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/xyzcorp/externalFlowers/ExternalFlowerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/xyzcorp/Flower.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="98">
-          <caret line="54" column="30" lean-forward="false" selection-start-line="54" selection-start-column="30" selection-end-line="54" selection-end-column="30" />
+        <state relative-caret-position="75">
+          <caret line="11" column="11" lean-forward="false" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
           <folding>
-            <element signature="e#768#769#0" expanded="true" />
-            <element signature="e#815#816#0" expanded="true" />
-            <element signature="e#855#856#0" expanded="true" />
-            <element signature="e#895#896#0" expanded="true" />
-            <element signature="e#942#943#0" expanded="true" />
-            <element signature="e#984#985#0" expanded="true" />
-            <element signature="e#1026#1027#0" expanded="true" />
-            <element signature="e#1071#1072#0" expanded="true" />
-            <element signature="e#1320#1321#0" expanded="true" />
-            <element signature="e#1357#1358#0" expanded="true" />
-            <element signature="e#1400#1401#0" expanded="true" />
-            <element signature="e#1439#1440#0" expanded="true" />
-            <element signature="e#1477#1478#0" expanded="true" />
-            <element signature="e#1519#1520#0" expanded="true" />
-            <element signature="e#1564#1565#0" expanded="true" />
-            <element signature="e#1606#1607#0" expanded="true" />
+            <element signature="e#768#769#0" expanded="false" />
+            <element signature="e#815#816#0" expanded="false" />
+            <element signature="e#855#856#0" expanded="false" />
+            <element signature="e#895#896#0" expanded="false" />
+            <element signature="e#942#943#0" expanded="false" />
+            <element signature="e#984#985#0" expanded="false" />
+            <element signature="e#1026#1027#0" expanded="false" />
+            <element signature="e#1071#1072#0" expanded="false" />
+            <element signature="e#1321#1322#0" expanded="false" />
+            <element signature="e#1358#1359#0" expanded="false" />
+            <element signature="e#1401#1402#0" expanded="false" />
+            <element signature="e#1440#1441#0" expanded="false" />
+            <element signature="e#1478#1479#0" expanded="false" />
+            <element signature="e#1520#1521#0" expanded="false" />
+            <element signature="e#1565#1566#0" expanded="false" />
+            <element signature="e#1607#1608#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xyzcorp/Suit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="31" lean-forward="false" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
+          <folding>
+            <element signature="e#130#131#0" expanded="true" />
+            <element signature="e#157#158#0" expanded="true" />
+            <element signature="e#188#189#0" expanded="true" />
+            <element signature="e#232#233#0" expanded="true" />
+            <element signature="e#268#269#0" expanded="true" />
+            <element signature="e#302#303#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/xyzcorp/SuitTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="33" lean-forward="false" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1518467262813" expanded="true" signature="158:249" ph="{...}" />
+            <marker date="1518467262813" expanded="true" signature="293:459" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xyzcorp/TimeBomb.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="46" lean-forward="true" selection-start-line="12" selection-start-column="46" selection-end-line="12" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/xyzcorp/FlowerTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="18" lean-forward="true" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+        <state relative-caret-position="53">
+          <caret line="9" column="27" lean-forward="true" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="69" column="17" lean-forward="true" selection-start-line="69" selection-start-column="17" selection-end-line="69" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/xyzcorp/TimeBombTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="43" column="0" lean-forward="true" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

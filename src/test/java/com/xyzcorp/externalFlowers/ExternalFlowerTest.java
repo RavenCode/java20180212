@@ -1,18 +1,16 @@
-package com.xyzcorp;
+package com.xyzcorp.externalFlowers;
 
+import com.xyzcorp.Flower;
+import com.xyzcorp.FlowerColor;
 import org.junit.Test;
-
-import static org.assertj.core.api.Assertions.assertThat;
 import static org.junit.Assert.assertEquals;
 
-public class FlowerTest {
+public class ExternalFlowerTest {
     @Test
     public void testFlowerBuilder() {
         Flower f = Flower.builder().latinName("Narcissus").build();
         assertEquals("Narcissus", f.getLatinName());
         assertEquals(null, f.getFlowerColor());
-
-        assertThat(f.getLatinName()).isEqualTo("Narcissus");
     }
 
     @Test

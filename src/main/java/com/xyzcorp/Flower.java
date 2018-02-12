@@ -49,7 +49,7 @@ public class Flower {
         }
     }
 
-    public Flower(FlowerBuilder flower) {
+    private Flower(FlowerBuilder flower) {
         this.latinName = flower.getLatinName();
         this.flowerColor = flower.getFlowerColor();
         this.numberOfPetals = flower.getNumberOfPetals();
