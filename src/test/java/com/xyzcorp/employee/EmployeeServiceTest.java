@@ -15,4 +15,9 @@ public class EmployeeServiceTest {
             employeeService.hireEmployee(new Employee("Jorge", "Gomez"));
         }
     }
+
+    @Test
+    public void testComponentAutoWiring() {
+
+    }
 }
