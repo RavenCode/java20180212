@@ -10,7 +10,7 @@ public class GenericsTest {
     @Test
     public void testAssignment() {
         Generics generics = new Generics();
-        generics.foo(new BucsFan());
+//        generics.foo(new BucsFan());
     }
 
     @Test
